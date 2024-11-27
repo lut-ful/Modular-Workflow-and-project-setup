@@ -37,7 +37,7 @@ list_of_files = [
     "src/exception.py",
     "src/logger.py",
     "src/utils.py",
-    "src/notebooks",
+    "notebooks/.keep",
     "main.py"
 ]
 

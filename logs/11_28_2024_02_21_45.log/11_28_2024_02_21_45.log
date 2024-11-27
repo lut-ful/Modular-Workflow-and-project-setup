@@ -1,0 +1,5 @@
+[2024-11-28 02:21:45,759] 49 root - ERROR - 
+→Error occured in Python script:
+→File: /home/lutful/Modular-Workflow-and-project-setup/test-logging-integration.py
+→Line number:11
+→Error message: division by zero

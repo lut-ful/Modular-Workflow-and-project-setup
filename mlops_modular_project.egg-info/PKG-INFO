@@ -8,7 +8,7 @@ Author-email: lutful2004@gmail.com
 Classifier: Development Status :: 3 - Beta
 Classifier: Intended Audience :: ML Engineers
 Classifier: Programming Language :: Python >= 3.8
-Classifier: Operating System :: OS Independend
+Classifier: Operating System :: OS Independent
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 Requires-Dist: numpy
@@ -16,6 +16,7 @@ Requires-Dist: pandas
 Requires-Dist: matplotlib
 Requires-Dist: scikit-learn
 Requires-Dist: seaborn
+Requires-Dist: ipykernel
 
 # Modular-Workflow-and-project-setup
 

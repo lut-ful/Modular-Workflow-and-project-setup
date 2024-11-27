@@ -1,5 +1,0 @@
-[2024-11-15 11:25:21,592] 49 root - ERROR - 
-→Error occured in Python script:
-→File: /home/lutful/mlops-project/test-logging-integration.py
-→Line number:11
-→Error message: division by zero

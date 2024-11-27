@@ -21,7 +21,7 @@ setup(
         "Development Status :: 3 - Beta",
         "Intended Audience :: ML Engineers",
         "Programming Language :: Python >= 3.8",
-        "Operating System :: OS Independend",
+        "Operating System :: OS Independent",
     ],
     python_requires=">=3.8",
     install_requires=required,#for development
