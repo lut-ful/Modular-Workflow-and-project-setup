@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256247994742507485/0476fee546b14a6bb61fb07c3de6d810/artifacts
+end_time: 1733207452920
+entry_point_name: ''
+experiment_id: '256247994742507485'
+lifecycle_stage: active
+run_id: 0476fee546b14a6bb61fb07c3de6d810
+run_name: DecisionTree_training_run_20241203_122934
+run_uuid: 0476fee546b14a6bb61fb07c3de6d810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733207438270
+status: 3
+tags: []
+user_id: lutful

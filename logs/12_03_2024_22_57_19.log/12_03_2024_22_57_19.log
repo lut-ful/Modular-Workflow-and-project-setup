@@ -1,0 +1,3 @@
+[2024-12-03 22:57:19,557] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-12-03 22:57:19,558] 97 werkzeug - INFO -  * Debugger PIN: 918-769-418
+[2024-12-03 22:57:22,558] 97 werkzeug - INFO - 127.0.0.1 - - [03/Dec/2024 22:57:22] "POST /predict HTTP/1.1" 200 -

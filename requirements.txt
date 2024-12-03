@@ -7,3 +7,5 @@ ipykernel
 setuptools
 dvc
 feast
+mlflow
+flask

@@ -2,3 +2,4 @@ venv/
 evn/
 ENV/
 .myenv
+.vscode

@@ -38,7 +38,8 @@ list_of_files = [
     "src/logger.py",
     "src/utils.py",
     "notebooks/.keep",
-    "main.py"
+    "main.py",
+    "app.py"
 ]
 
 # Calling the function to create files and directories
